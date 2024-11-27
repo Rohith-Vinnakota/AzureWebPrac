@@ -7,7 +7,7 @@
     
   "routes": [
     {
-      "route": "/breakingnews/*",
+      "route": "/breakingnews/",
       "rewrite": "/"
     }
   ]
